@@ -3,7 +3,7 @@ entries:
   cp-kafka-connect:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-19T14:10:09.206445576Z"
+    created: "2021-05-20T04:53:13.234690149Z"
     description: A Helm chart for Confluent Kafka Connect on Kubernetes
     digest: f918b9a1049c202f6059462e121b529416d099b1f4a9c18691471c67a24ec856
     name: cp-kafka-connect
@@ -12,11 +12,11 @@ entries:
     version: "2.0"
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-19T14:10:09.204955176Z"
+    created: "2021-05-20T04:53:13.233969727Z"
     description: A Helm chart for Confluent Kafka Connect on Kubernetes
     digest: f712c730c3a1a256a2348240b6039d8541950ac337291c7b32079890776904ae
     name: cp-kafka-connect
     urls:
     - https://veces88.github.io/helm-repo/cp-kafka-connect-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-19T14:10:09.203746217Z"
+generated: "2021-05-20T04:53:13.233249623Z"
