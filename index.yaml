@@ -3,30 +3,21 @@ entries:
   cp-kafka-connect:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-21T09:32:34.512174119Z"
+    created: "2021-05-21T12:46:30.447830539Z"
     description: A Helm chart for Confluent Kafka Connect on Kubernetes
     digest: 260982e6e2d508f272e1962288e25a60725fa90e55ae427cdcf9a1a023b305e7
     name: cp-kafka-connect
     urls:
     - cp-kafka-connect-2.0.tgz
     version: "2.0"
-  - apiVersion: v1
-    appVersion: "1.0"
-    created: "2021-05-21T09:32:34.509917578Z"
-    description: A Helm chart for Confluent Kafka Connect on Kubernetes
-    digest: f712c730c3a1a256a2348240b6039d8541950ac337291c7b32079890776904ae
-    name: cp-kafka-connect
-    urls:
-    - cp-kafka-connect-0.1.0.tgz
-    version: 0.1.0
   hivemq:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-21T09:32:34.513117735Z"
+    created: "2021-05-21T12:46:30.448734711Z"
     description: A Helm chart for HiveMQ on Kubernetes
-    digest: 097859944aff02055b6accb4dbc8335e35dcd38631b9a32d3ce5157b6f898062
+    digest: f882050b2dadf144ac37952c4460c2a4b5dc2354e99b5cb4170b1e06e677a2ba
     name: hivemq
     urls:
     - hivemq-1.0.tgz
     version: "1.0"
-generated: "2021-05-21T09:32:34.509204628Z"
+generated: "2021-05-21T12:46:30.445868005Z"
